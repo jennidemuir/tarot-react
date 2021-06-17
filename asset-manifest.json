@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/tarot-react/static/css/main.128f00f5.chunk.css",
-    "main.js": "/tarot-react/static/js/main.fccccb12.chunk.js",
-    "main.js.map": "/tarot-react/static/js/main.fccccb12.chunk.js.map",
+    "main.js": "/tarot-react/static/js/main.52ce0324.chunk.js",
+    "main.js.map": "/tarot-react/static/js/main.52ce0324.chunk.js.map",
     "runtime-main.js": "/tarot-react/static/js/runtime-main.f80a8f1e.js",
     "runtime-main.js.map": "/tarot-react/static/js/runtime-main.f80a8f1e.js.map",
-    "static/js/2.ef95db7a.chunk.js": "/tarot-react/static/js/2.ef95db7a.chunk.js",
-    "static/js/2.ef95db7a.chunk.js.map": "/tarot-react/static/js/2.ef95db7a.chunk.js.map",
+    "static/js/2.5c6db0d2.chunk.js": "/tarot-react/static/js/2.5c6db0d2.chunk.js",
+    "static/js/2.5c6db0d2.chunk.js.map": "/tarot-react/static/js/2.5c6db0d2.chunk.js.map",
     "static/js/3.87fa9a24.chunk.js": "/tarot-react/static/js/3.87fa9a24.chunk.js",
     "static/js/3.87fa9a24.chunk.js.map": "/tarot-react/static/js/3.87fa9a24.chunk.js.map",
     "index.html": "/tarot-react/index.html",
     "static/css/main.128f00f5.chunk.css.map": "/tarot-react/static/css/main.128f00f5.chunk.css.map",
-    "static/js/2.ef95db7a.chunk.js.LICENSE.txt": "/tarot-react/static/js/2.ef95db7a.chunk.js.LICENSE.txt",
+    "static/js/2.5c6db0d2.chunk.js.LICENSE.txt": "/tarot-react/static/js/2.5c6db0d2.chunk.js.LICENSE.txt",
     "static/media/cardreader-styles.css": "/tarot-react/static/media/lace-pattern1.a03c2898.png",
     "static/media/homepage-styles.css": "/tarot-react/static/media/lace-pattern2.58d752f3.png",
     "static/media/tarot.7db18f38.png": "/tarot-react/static/media/tarot.7db18f38.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f80a8f1e.js",
-    "static/js/2.ef95db7a.chunk.js",
+    "static/js/2.5c6db0d2.chunk.js",
     "static/css/main.128f00f5.chunk.css",
-    "static/js/main.fccccb12.chunk.js"
+    "static/js/main.52ce0324.chunk.js"
   ]
 }
